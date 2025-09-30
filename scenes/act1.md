@@ -1003,14 +1003,14 @@ bb({eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: We're spreading disinformation! We're destroying trust in a free press!
+b: Stiamo diffondendo disinformazione! Stiamo distruggendo la fiducia nella stampa libera!
 
 ```
 bb({body:"scream"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: We're the reason fascism will arise from the rubble of democracy!
+b: Siamo il motivo per cui il fascismo risorgerà dalle macerie della democrazia!
 
 ```
 bb({body:"normal", eyes:"anger"});
@@ -1026,7 +1026,7 @@ Game.OVERRIDE_TEXT_SPEED = 1.5;
 _.factcheck = true;
 ```
 
-h: Why are you like this?!
+h: Perché sei così?!
 
 (#act1f)
 
@@ -1037,13 +1037,13 @@ bb({eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Do you want to have a pretzel for a spine?! Stop hunching over your screen!
+b: Vuoi avere un pretzel come spina dorsale?! Smettila di rannicchiarti sullo schermo!
 
 ```
 bb({body:"meta"});
 ```
 
-b: That means you too.
+b: Questo è rivolto anche a te.
 
 ```
 bb({body:"normal", mouth:"normal"});
@@ -1059,7 +1059,7 @@ hong({mouth:"anger", eyes:"anger"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-h: Why are you like this?!
+h: Perché sei così?!
 
 (#act1f)
 
@@ -1067,27 +1067,27 @@ h: Why are you like this?!
 
 `hong({mouth:"sad", eyes:"sad"});`
 
-h: Hm... that looks really fun.
+h: Hm... sembra molto divertente.
 
-h: Maybe I shouldn't have ignored the invite?
+h: Magari non avrei dovuto ignorare l'invito?
 
 `bb({mouth:"normal", eyes:"normal"});`
 
-[Keep ignoring, we're still party poopers.](#act1e_ignore_continue)
+[Continua ad ignorarlo, siamo solo dei guastafeste.](#act1e_ignore_continue)
 
-[Actually, say yes.](#act1e_ignore_changetoyes)
+[Infatti, dici sì.](#act1e_ignore_changetoyes)
 
-[Actually, say no.](#act1e_ignore_changetono)
+[Infatti, dici no.](#act1e_ignore_changetono)
 
 # act1e_ignore_continue
 
 `hong({eyes:"annoyed"});`
 
-h: It's kinda rude to keep ignoring them though, no?
+h: È un po' maleducato continuare ad ignorarli, no?
 
 `bb({eyes:"normal_right"});`
 
-b: Well other people always ignore *us*, so
+b: Beh, gli altri *ci* ignorano sempre, quindi
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -1098,7 +1098,7 @@ attack("18p", "alone");
 
 `bb({eyes:"normal"});`
 
-b: so let's just call it even.
+b: quindi diciamo che siamo pari.
 
 (#act1f)
 
@@ -1106,9 +1106,9 @@ b: so let's just call it even.
 
 `hong({eyes:"surprise", mouth:"smile"});`
 
-h: You're... letting me have fun?
+h: Mi stai... lasciando divertire?
 
-b: Well, I mean, loneliness *can* kill us.
+b: Beh, come ho detto, la solitudine *può* ucciderci.
 
 `hong({eyes:"neutral", mouth:"neutral"});`
 
@@ -1118,7 +1118,7 @@ b: Well, I mean, loneliness *can* kill us.
 
 `bb({eyes:"narrow"});`
 
-b: It's too crowded. Crowds are dangerous.
+b: È troppo affollato. La folla è pericolosa.
 
 (#act1e_yes_changetono)
 
@@ -1130,60 +1130,60 @@ hong({mouth:"neutral", eyes:"neutral"});
 bb({body:"normal", mouth:"normal", eyes:"normal"});
 ```
 
-h: Whatever. New Tinder notification.
+h: Vabbè. Nuova notifica di Tinder.
 
 `bb({eyes:"uncertain"})`
 
-b: What, that hookup app?
+b: Cosa, l'app di incontri?
 
 `hong({eyes:"annoyed"})`
 
-h: It's not a hookup app, it's just a way to meet new peopl--
+h: Non è un'app di incontri, è un modo di conoscere nuove perso--
 
 `bb({eyes:"narrow"})`
 
-b: It's a hookup app.
+b: È un'app di incontri.
 
 ```
 hong({eyes:"surprise", mouth:"smile"});
 bb({eyes:"normal"});
 ```
 
-h: Oh, I got a match! They look cute!
+h: Oh, ho fatto match! E non sembra male!
 
 ```
 bb({eyes:"narrow_eyebrow"});
 hong({eyes:"sad", mouth:"anger"})
 ```
 
-h: Please don't ruin this for m--
+h: Per favore non rovinarlo per m--
 
 ```
 bb({body:"panic"});
 Game.OVERRIDE_TEXT_SPEED = 2.0;
 ```
 
-b: DANGER DANGER DANGER DANGER DANGER DANGER
+b: PERICOLO PERICOLO PERICOLO PERICOLO PERICOLO PERICOLO
 
 `bb({body:"fear", eyes:"fear", mouth:"normal"})`
 
-[We're being *used* by other people.](#act1f_used_by_others)
+[Siamo *usati* dagli altri.](#act1f_used_by_others)
 
-[We're just *using* other people.](#act1f_using_others)
+[Stiamo *usando* gli altri.](#act1f_using_others)
 
-[YOUR MATCH IS A SERIAL KILLER](#act1f_killer)
+[IL TUO MATCH È UN SERIAL KILLER](#act1f_killer)
 
 # act1f_used_by_others
 
 `bb({body:"point_crotch", eyes:"normal", mouth:"normal"})`
 
-b: Random hookups may be able to fill the hole down there,
+b: Incontri random potrebbero essere capaci di riempire il buco lì in basso,
 
-b: but they can never fill the hole...
+b: ma non potranno mai riempire il buco...
 
 `bb({body:"point_heart", eyes:"pretty", mouth:"small"})`
 
-b: in *here*.
+b: *qui*.
 
 (...1000)
 
@@ -1192,7 +1192,7 @@ bb({body:"normal", mouth:"normal", eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: The point is WE'RE GOING TO DIE ALONE
+b: Il punto è che MORIREMO DA SOLI
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -1209,7 +1209,7 @@ attack("18p", "alone");
 
 `bb({eyes:"narrow", mouth:"small"})`
 
-b: You think other people's genitals are Pokémon for us to collect?
+b: Pensi che i genitali degli altri siano dei Pokémon da collezionare?
 
 ```
 bb({body:"sing", eyes:"pretty", mouth:"shut"});
@@ -1223,7 +1223,7 @@ Game.FORCE_TEXT_DURATION = 1000;
 Game.FORCE_NO_VOICE = true;
 ```
 
-b: ♫ (pokemon theme song)-
+b: ♫ (sigla dei pokemon)-
 
 (...5600)
 
@@ -1232,7 +1232,7 @@ bb({mouth:"normal"});
 Game.FORCE_TEXT_DURATION = 2400;
 ```
 
-b: ♫ I wanna be, the ^slut^ti-est-
+b: ♫ Voglio essere la più ^puttana^-
 
 (...500)
 
@@ -1241,7 +1241,7 @@ bb({eyes:"narrow", mouth:"small"});
 Game.FORCE_TEXT_DURATION = 2100;
 ```
 
-b: ♫ Like no one ever was-
+b: ♫ Come nessun altro mai-
 
 (...1500)
 
@@ -1250,7 +1250,7 @@ bb({eyes:"pretty"});
 Game.FORCE_TEXT_DURATION = 2300;
 ```
 
-b: ♫ Thighs n' ^ass^, voluptuous breast-
+b: ♫ Cosce e ^culo^, seno prosperoso-
 
 (...500)
 
@@ -1259,7 +1259,7 @@ bb({eyes:"fear", mouth:"normal"});
 Game.FORCE_TEXT_DURATION = 2000;
 ```
 
-b: ♫ with sweaty ^dick^ and balls!-
+b: ♫ Con ^cazzo^ sudato e palle!-
 
 (...1000)
 
@@ -1268,7 +1268,7 @@ bb({eyes:"smile", mouth:"smile"});
 Game.FORCE_TEXT_DURATION = 1000;
 ```
 
-b: ♫ PERVY-MON! GOTTA CA-
+b: ♫ PERVERTITO-MON! ACCHIAPPALI TU-
 
 ```
 Game.FORCE_CANT_SKIP = false;
@@ -1278,7 +1278,7 @@ bb({body:"normal", mouth:"normal", eyes:"normal"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: The point is we're a manipulative creep.
+b: Il fatto è che siamo dei manipolatori infami.
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -1296,7 +1296,7 @@ attack("18p", "bad");
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
 {{if _.whitebread}}
-b: They'll trap you in a well and force-feed you white bread to fatten you up so they can wear your skin like a suit!
+b: Ti intrappoleranno in un pozzo e ti costringeranno a mangiare pane bianco per farti ingrassare e poi usare la tua pelle come vestito!
 {{/if}}
 
 {{if _.parasite}}
