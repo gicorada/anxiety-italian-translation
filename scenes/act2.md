@@ -949,19 +949,19 @@ b: In verità, si *ritorcono* contro se la persona ha poca stima di se!
 
 `bb({body:"one_up", mouth:"small", eyes:"normal"})`
 
-b: It was a well-designed study – randomized controlled trial, experimenter was blinded as to who was in which group.
+b: Ed era uno studio ben eseguito – trial randomizzato, e lo sperimentatore non sapeva a quale gruppo appartenevano i partecipanti.
 
 `bb({body:"two_up", mouth:"small", eyes:"normal_r"})`
 
-b: Results: if you already had low self-esteem, being asked to repeat affirmations makes you feel *worse* than if you'd said nothing at all!
+b: Risultato: se già hai poca stima di te, dover ripetere delle frasi motivazionali ti fa sentire *peggio* di quando non dici niente!
 
 `bb({body:"point", mouth:"normal", eyes:"closed"})`
 
-b: Wood 2009, Psychological Science. Look it up on Google Scholar, human,
+b: Wood 2009, Psychological Science. Cercalo su Google Scholar, umana,
 
 `bb({body:"scream_b_1"})`
 
-b: THEN STOP SPREADING UNSCIENTIFIC FAKE NEWS
+b: QUINDI SMETTILA DI DIFFONDERE FAKE NEWS ANTISCIENTIFICHE
 
 ```
 hong({body:"attacked"});
@@ -977,19 +977,19 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: You *need* to humbly see your own flaws in order to grow as a person!
+b: *Devi* guardare i tuoi difetti con umiltà per crescere come persona!
 
 `bb({body:"two_up", eyes:"suspect"})`
 
-b: You can't spray air freshener over a moldy room! Covering up your flaws makes you worse in the long run.
+b: Non puoi spruzzare deodorante in una stanza piena di muffa! Coprire i tuoi difetti li peggiorerà a lungo andare.
 
 `bb({body:"chest", mouth:"smile", eyes:"closed"})`
 
-b: Thankfully, I, as your loyal guard-wolf, can alert you to your flaws. And right now, it's-
+b: Per fortuna, io, come tua fedele guardia-lupo, posso farti notare i tuoi difetti. E ora, è-
 
 `bb({body:"scream_b_1"})`
 
-b: EVERYTHING. EVERYTHING IS WRONG
+b: TUTTO. È TUTTO SBAGLIATO
 
 ```
 hong({body:"attacked"});
@@ -1005,15 +1005,15 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"})`
 
-b: Native Americans are *actual people*, not some "noble savages" you can namedrop to make your fortune-cookie advice more *exotic*.
+b: I Nativi Americani erano *persone vere*, non dei "buoni selvaggi" che puoi nominare a caso per rendere i tuoi consigli scontati più *esotici*.
 
 `bb({eyes:"suspect_r"})`
 
-b: You're reducing individual persons & complex cultures to a Hallmark card! That's "benevolent racism"! 
+b: Stai riducendo persone e complesse culture ad una cartolina! È "razzismo benevolo"! 
 
 `bb({body:"scream_b_1"})`
 
-b: STOP BEING RACIST YOU SQUINTY-EYED JERK
+b: SMETTILA DI ESSERE RAZZISTA, MALVAGIA DAGLI OCCHI STRETTI
 
 ```
 hong({body:"attacked"});
@@ -1027,45 +1027,45 @@ attack("10p", "bad");
 
 # act2e
 
-h: ^ASSDAMMIT^.
+h: ^Porca merda^.
 
 `hong({body:"yell", mouth:"yell"})`
 
-h: You know what? You're *irrational*.
+h: Sai cosa? Sei *irrazionale*.
 
-h: Everyone knows emotions are irrational! Especially fear!
+h: Tutti sanno che le emozioni sono irrazionali! Specialmente la paura!
 
 `hong({body:"facepalm_2"})`
 
-h: You're a useless evolutionary leftover, like my appendix or wisdom teeth!
+h: Sei un inutile residuo dell'evoluzione, come la mia appendice o i denti del giudizio!
 
 `hong({body:"yell", mouth:"yell"})`
 
-h: ^Hell^, this whole wolf metaphor is stupid! You're just a bunch of neuro-chemicals in my head.
+h: ^Cavolo^, tutta questa metafora del lupo è stupida! Sei solo un miscuglio di neurotrasmettitori nella mia testa.
 
 `hong({body:"cross", mouth:"cross"})`
 
-h: So why should I listen to a worthless, irrational, non-existent piece of ^shit^ like you?!
+h: E quindi perché dovrei ascoltare un inutile, irrazionale, inesistente pezzo di ^merda^ come te?!
 
 `bb({eyes:"sad", MOUTH_LOCK:true})`
 
 b: ...
 
-[Jeez, human. That's really hurtful.](#act2e_hurtful)
+[Cavli, umana. Fa veramente male.](#act2e_hurtful)
 
-[I'm a feeling. Feelings are valid.](#act2e_valid)
+[Sono un sentimento. I sentimenti sono validi.](#act2e_valid)
 
-[Human, we're *both* "just chemicals."](#act2e_rational)
+[Umana, siamo *entrambi* "delle sostanze chimiche."](#act2e_rational)
 
 # act2e_hurtful
 
 `bb({body:"chest"})`
 
-b: I'm *part* of you, you know. When you say that, you're hurting *yourself*.
+b: Faccio *parte* di te, come sai. Quando dici questo, stai facendo del male a *te stessa*.
 
 `bb({body:"scream_a_1"})`
 
-b: Why are you hitting yourself, human? STOP HITTING YOURSELF.
+b: Perché ti stai colpendo da sola, umana? BASTA COLPIRTI.
 
 ```
 music(null);
@@ -1082,23 +1082,23 @@ attack("10p", "harm");
 
 `bb({body:"normal", mouth:"normal", eyes:"normal_r"});`
 
-b: Your deepest motivations are dopamine, your richest joys are serotonin.
+b: Le tue più profonde motivazioni sono dopamina, le tue più grandi felicità serotonina.
 
 `bb({body:"one_up"});`
 
-b: Your memories are synaptic weights, your reason is fault-prone electrical signals.
+b: La tua memoria sono modifiche di sinapsi, il tuo ragionamento sono segnali elettrici traballanti.
 
 `bb({eyes:"normal", body:"normal"});`
 
-b: So if me being "just chemicals" means *I'm* irrational... then that means *you're* irrational!
+b: Quindi se io sono "delle sostanze chimiche" significa *che sono* irrazionale... che signifca che *sei* irrazionale!
 
 `bb({body:"two_up", eyes:"shock"});`
 
-b: And if we're *both* irrational, then we'll *never* figure out how to be fulfilled and happy!
+b: E se siamo *entrambi* irrazionali, allora non capiremo *mai* come essere contenti e realizzati!
 
 `bb({body:"scream_a_1"})`
 
-b: AHHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKEN--
+b: AHH SIAMO ROTTI! ROTTI ROTTISSIMI COSÌ ROTTI--
 
 ```
 music(null);
