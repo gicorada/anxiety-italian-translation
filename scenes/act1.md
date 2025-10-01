@@ -959,7 +959,7 @@ hong({mouth:"anger", eyes:"anger"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-h: Basta basta cambierò la mia risposta in no! Oddio!
+h: Basta basta cambierò la mia risposta in sì! Oddio!
 
 (#act1f)
 
