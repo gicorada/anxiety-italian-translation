@@ -844,11 +844,11 @@ b: Gli altri hanno una bussola verso il bene, ma noi facciamo del "bene" solo se
 
 `bb({body:"normal", mouth:"small", eyes:"sad_r"})`
 
-b: What if it's in our nature to hurt others? What if we can't be anything *other* than a burden to those close to us?
+b: E se fosse nella nostra natura fare del male agli altri? E se non potessimo evitare di essere *altro* che un fardello per chi ci è vicino?
 
 `bb({body:"scream_a_1"})`
 
-b: AHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKE--
+b: AHH SIAMO ROTTI! ROTTI ROTTISSIMI COSÌ ROTTI--
 
 `_.a2_attack_3 = "bad";`
 
@@ -858,15 +858,15 @@ b: AHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKE--
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: I'm not being irrational. People *do* drug punch bowls. That is an actual thing that actually happens.
+b: Non sono irrazionale. Le persone *mettono* droga nelle ciotole da punch. È una cosa che succede veramente.
 
 `bb({eyes:"suspect"})`
 
-b: Human, does your head hurt? Are your limbs limp? I think we're dying.
+b: Umana, ti fa male la testa? I tuoi arti sono molli? Mi sa che stiamo morendo.
 
 `bb({body:"scream_a_1"})`
 
-b: AHHH WE'RE DYING! WE'RE DYING WE'RE DYING WE'RE DYI--
+b: AHHH STIAMO MORENDO! STIAMO MORENDO STIAMO MORENDO STIAMO MO--
 
 `_.a2_attack_3 = "harm";`
 
@@ -898,54 +898,54 @@ attack("20p", _.a2_attack_3);
 
 (...1001)
 
-h: F^AAACK^!
+h: C^AAAZZO^!
 
-h: F^ACK^ING F^ACK^-F^AKK^ITY *F^AAAAACK^*
+h: C^AZZ^UTISSIMO C^AZZ^-C^AZZ^ONISSIMO *C^AAAAZZO^*
 
 `bb({body:"two_up", mouth:"smile", eyes:"happy"});`
 
-b: Yay, human! I'm so happy you can hear me again!
+b: Evviva, umana! Sono così contento che riesci a sentirmi di nuovo!
 
 `bb({body:"normal", mouth:"small", eyes:"sad"})`
 
-b: Why were you ignoring me?
+b: Perché mi stavi ignorando?
 
 `hong({body:"facepalm"})`
 
-h: Holy ^hell^, you absolute moron.
+h: Santa ^merda^, sei un idiota.
 
 `hong({body:"facepalm_2"})`
 
-h: You know that Native American story?
+h: La conosci quella storiella dei Nativi Americani?
 
-h: "There are two wolves inside you, one is hope, one is despair, which wolf wins? The one you feed."
+h: "Ci sono due lupi dentro di te, uno è la speranza e uno la disperazione, che lupo vince? Quello a cui dai da mangiare."
 
 ```
 hong({body:"facepalm_3"});
 bb({eyes:"normal"});
 ```
 
-h: I was trying to *starve* you, you sadistic ^asshole^!
+h: Stavo cercando di farti *morire di fame*, sadistico pezzo di ^merda^!
 
 `hong({body:"smile", mouth:"smile"})`
 
-h: Screw it, I'll do positive affirmations instead.
+h: Dannazione, dirò frasi positive allora.
 
-h: *I am loved. I am good. I am smart. I am beautiful. I am special.*
+h: *Sono amata. Sono buona. Sono intelligente. Sono bellissima. Sono speciale.*
 
 `bb({eyes:"suspect"});`
 
-[Golly, that's so narcissistic!](#act2d_narcissist)
+[Caspita, quanto sei narcisista!](#act2d_narcissist)
 
-[Y'know affirmations were *disproven?*](#act2d_disproven)
+[Lo sai che questo metodo è stato dimostrato *inutile?*](#act2d_disproven)
 
-[omg don't credit random stories to indigenous folk](#act2d_racist)
+[ommioddio non dare i crediti di questa storia agli indigeni](#act2d_racist)
 
 # act2d_disproven
 
 `bb({body:"point", mouth:"normal", eyes:"closed"})`
 
-b: In fact, they actually *backfire* for people with low self-esteem! 
+b: In verità, si *ritorcono* contro se la persona ha poca stima di se! 
 
 `bb({body:"one_up", mouth:"small", eyes:"normal"})`
 
