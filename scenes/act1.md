@@ -1156,7 +1156,7 @@ bb({eyes:"narrow_eyebrow"});
 hong({eyes:"sad", mouth:"anger"})
 ```
 
-h: Per favore non rovinarlo per m--
+h: Per favore non rovinarmelo--
 
 ```
 bb({body:"panic"});
@@ -1296,15 +1296,15 @@ attack("18p", "bad");
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
 {{if _.whitebread}}
-b: Ti intrappoleranno in un pozzo e ti costringeranno a mangiare pane bianco per farti ingrassare e poi usare la tua pelle come vestito!
+b: Ti intrappolerà in un pozzo e ti costringerà a mangiare pane bianco per farti ingrassare e poi usare la tua pelle come vestito!
 {{/if}}
 
 {{if _.parasite}}
-b: Ti massacreranno con un pomodoro timer e ti diranno "DOVEVI ESSERE PIÙ PRODUTTIVA, PARASSITA"
+b: Ti massacrerà con un pomodoro timer e ti dirà "DOVEVI ESSERE PIÙ PRODUTTIVA, PARASSITA"
 {{/if}}
 
 {{if !_.whitebread && !_.parasite}}
-b: Ti scorticheranno fino a ridurti in macabri coriandoli, trasformeranno le tue interiora in festoni, e mescoleranno il tuo sangue in una ciotola per punch!
+b: Ti scorticherà fino a ridurti in macabri coriandoli, trasformerà le tue interiora in festoni, e mescolerà il tuo sangue in una ciotola per punch!
 {{/if}}
 
 {{if !_.whitebread && !_.parasite}}
