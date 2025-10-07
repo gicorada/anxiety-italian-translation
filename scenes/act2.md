@@ -1115,19 +1115,19 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"});`
 
-b: Hang on... "they" say that feelings are valid, that you should always accept your emotions.
+b: Aspetta... "loro" dicono i sentimenti sono validi, che dovresti sempre accettare le tue emozioni.
 
 `bb({eyes:"suspect_r"});`
 
-b: But "they" also say emotions are irrational, that emotions are not to be trusted.
+b: Ma "loro" dicono anche che le emozioni sono irrazionali, e che non bisogna dargli fiducia.
 
 `bb({eyes:"angry"});`
 
-b: Oh my gosh, "they" have been lying to us this whole time!
+b: Ommioddio, "loro" ci stavano mentendo per tutto il tempo!
 
 `bb({body:"scream_a_1"})`
 
-b: "THEY" FEED US CONTRADICTIONS TO MAKE US DEPENDENT ON THE SELF-HELP INDUSTRIAL COMPLEX
+b: "LORO" CI RIEMPIONO DI CONTRADDIZIONI PER FARCI DIPENDERE DALL'INDUSTRIA DELL'AUTO-AIUTO
 
 ```
 music(null);
@@ -1146,55 +1146,55 @@ attack("10p", "harm");
 
 h: ...
 
-h: I hate this. God it hurts so much I *hate* this.
+h: Lo odio. Dio, fa male, e lo *odio*.
 
-h: I can't appease you. I can't ignore you. I can't fight you. 
+h: Non riesco a calmarti. Non riesco ad ignorarti. Non riesco a combatterti. 
 
 `bb({eyes:"suspect"});`
 
-h: No matter what I do, I can't seem to get rid of yo--
+h: Ogni cosa che faccio, sembra che non riesca a liberarmi di t--
 
 `bb({body:"cry_1"});`
 
-b: Well maybe you're NOT *SUPPOSED* TO GET RID OF ME.
+b: Beh, magari perché NON *DOVRESTI* LIBERARTI DI ME.
 
 `bb({body:"cry_2"});`
 
-b: How do you think *I* feel, human?!
+b: Come pensi che mi senta, *io*, umana?!
 
 `bb({body:"cry_4", mouth:"cry", eyes:"cry"})`
 
-b: I'm trying my best to be your guard-dog, but you keep seeing me as some Big Bad Wolf!
+b: Sto facendo il mio meglio per essere il tuo cane da guardia, ma mi vedi sempre come un Grande Lupo Cattivo!
 
-b: So I try even *harder* to alert you to danger! *More* danger! *Different* danger!
+b: E quindi provo ad avvertirti *di più* dei pericoli! *Più* pericoli! *Altri* pericoli!
 
 `bb({eyes:"cry_2"})`
 
-b: But no matter how hard I try to protect you, you *still* think I'm your enemy!
+b: Ma anche se provo così tanto a proteggerti, tu *ancora* pensi che sono tuo nemico!
 
 `bb({body:"cry_5"});`
 
-b: What am I doing wrong?!
+b: Cosa sto facendo di sbagliato?!
 
 `bb({body:"cry_2"});`
 
-b: I *know* I suck at my job. But I'm *trying*, human!
+b: Lo *so* che faccio schifo in questo. Ma ci sto *provando*, umana!
 
 `bb({body:"cry_3"});`
 
-b: ...I'm trying.
+b: ...ci sto provando.
 
 `bb({body:"cry_6", mouth:"right", eyes:"cry_r_1"});`
 
-b: You don't have to heed my warnings, or agree with me, or even *like* me.
+b: Non devi per forza ascoltare i miei avvertimenti, o concordare con me, o perfino *volermi bene*.
 
 `bb({eyes:"cry_r_2"});`
 
-b: I just... all I want is for you to be patient with me.
+b: Io voglio solo... solo che tu sia paziente con me.
 
 `bb({eyes:"cry_r_3"});`
 
-b: I just want for you to sit with me for a while, instead of turning away and--
+b: Voglio solo che stia con me per un po', invece di girarti e--
 
 ```
 bb({eyes:"cry_r_4"});
