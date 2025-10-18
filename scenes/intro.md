@@ -19,15 +19,15 @@ _.PLAYED_BEFORE = !!window.localStorage.continueChapter;
 {{/if}}
 
 {{if _.PLAYED_BEFORE && window.localStorage.continueChapter=="act2"}}
-[_CONTINUE_: La Festa](#act2) `publish("LOAD_GAME", ["act2"]); Game.OVERRIDE_CHOICE_LINE=true;`
+[_CONTINUA_: La Festa](#act2) `publish("LOAD_GAME", ["act2"]); Game.OVERRIDE_CHOICE_LINE=true;`
 {{/if}}
 
 {{if _.PLAYED_BEFORE && window.localStorage.continueChapter=="act3"}}
-[_CONTINUE_: L'Altra Festa](#act3) `publish("LOAD_GAME", ["act3"]); Game.OVERRIDE_CHOICE_LINE=true;`
+[_CONTINUA_: L'Altra Festa](#act3) `publish("LOAD_GAME", ["act3"]); Game.OVERRIDE_CHOICE_LINE=true;`
 {{/if}}
 
 {{if _.PLAYED_BEFORE && window.localStorage.continueChapter=="act4"}}
-[_CONTINUE_: L'Altro Sandwich](#act4) `publish("LOAD_GAME", ["act4"]); Game.OVERRIDE_CHOICE_LINE=true;`
+[_CONTINUA_: L'Altro Sandwich](#act4) `publish("LOAD_GAME", ["act4"]); Game.OVERRIDE_CHOICE_LINE=true;`
 {{/if}}
 
 {{if _.PLAYED_BEFORE && window.localStorage.continueChapter=="replay"}}

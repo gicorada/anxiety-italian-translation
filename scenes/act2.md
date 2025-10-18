@@ -1533,17 +1533,17 @@ n: *ELIMINALA*
 
 `bb({ eyes:"angry" });`
 
-b: Quel psicopatico stava approfittando di te.
+b: Quella psicopatica stava approfittando di te.
 
-b: Stava cercando di rovinarti, farti diventare proprio come lui!
+b: Stava cercando di rovinarti, farti diventare proprio come lei!
 
 `bb({ body:"yell_angry_1" });`
 
-b: Picchialo quel tipo! Mandalo KO!
+b: Picchiala quella tipa! Mandala KO!
 
 `bb({ body:"final_1" });`
 
-b: PICCHIALO PICCHIALO PICCHIALO PICCHIALO PICCHIALO PICCHIALO PICCHIALO PICCHIAL--
+b: PICCHIALA PICCHIALA PICCHIALA PICCHIALA PICCHIALA PICCHIALA PICCHIALA PICCHIAL--
 
 `_.a2_ending = "fight";`
 
@@ -1559,7 +1559,6 @@ b: E stanno cercando di convincerti a fare lo stesso! Ti stanno rovinando! Dobbi
 
 `bb({ body:"final_1" });`
 
-b: GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OU--
 b: ANDARE VIA ANDARE VIA ANDARE VIA ANDARE VIA ANDARE VIA ANDARE VIA ANDARE V--
 
 `_.a2_ending = "flight";`
