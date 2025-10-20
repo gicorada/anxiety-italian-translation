@@ -1268,7 +1268,7 @@ bb({eyes:"smile", mouth:"smile"});
 Game.FORCE_TEXT_DURATION = 1000;
 ```
 
-b: ♫ PERVERTITO-MON! ACCHIAPPALI TU-
+b: ♫ PERVE-MON! ACCHIAPPALI TU-
 
 ```
 Game.FORCE_CANT_SKIP = false;
