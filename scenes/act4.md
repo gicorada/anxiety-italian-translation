@@ -447,9 +447,9 @@ hong({body:"normal"});
 bb({eyes:"normal"});
 ```
 
-[Ho paura di essere ferita.](#act4_harm)
+[Ho paura di essere ferito.](#act4_harm)
 
-[Ho paura che resterò da sola.](#act4_alone)
+[Ho paura che resterò da solo.](#act4_alone)
 
 [Ho paura di essere una cattiva persona.](#act4_bad)
 
@@ -1505,15 +1505,15 @@ h: Quindi, hai altro a cuore di cui vuoi discutere?
 {{/if}}
 
 {{if _.a4_talked_about_harm!=true}}
-[Ho paura di ricevere del male.](#act4_harm)
+[Ho paura di essere ferito.](#act4_harm)
 {{/if}}
 
 {{if _.a4_talked_about_alone!=true}}
-[Ho paura di essere solo.](#act4_alone)
+[Ho paura che resterò da solo.](#act4_alone)
 {{/if}}
 
 {{if _.a4_talked_about_bad!=true}}
-[Ho paura di essere una persona cattiva.](#act4_bad)
+[Ho paura di essere una cattiva persona.](#act4_bad)
 {{/if}}
 
 [Nah, sono a posto per ora.](#act4c_prelude)

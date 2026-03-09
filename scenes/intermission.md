@@ -22,7 +22,7 @@ i: #harm# *ESSERE FERITA:* {{_.INTERMISSION_STAGE==1 ? _.attack_harm_ch1 : _.att
 
 i: #alone# *NON ESSERE AMATA:* {{_.INTERMISSION_STAGE==1 ? _.attack_alone_ch1 : _.attack_alone_ch2}}
 
-i: #bad# *ESSERE UNA CATTIVA PERSONA:* {{_.INTERMISSION_STAGE==1 ? _.attack_bad_ch1 : _.attack_bad_ch2}}
+i: #bad# *ESSERE CATTIVA:* {{_.INTERMISSION_STAGE==1 ? _.attack_bad_ch1 : _.attack_bad_ch2}}
 
 
 ```
